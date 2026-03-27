@@ -1,0 +1,8 @@
+# Core framework
+crewai==1.2.0
+
+# Tavily search
+tavily-python>=0.3.0
+
+# Environment variables
+python-dotenv>=1.0.0
