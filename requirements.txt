@@ -1,5 +1,5 @@
 # Core framework
-crewai==1.2.0
+crewai[google-genai]==1.2.0
 
 # Tavily search
 tavily-python>=0.3.0
