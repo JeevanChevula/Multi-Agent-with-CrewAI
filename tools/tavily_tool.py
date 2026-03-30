@@ -1,6 +1,6 @@
 # tools/tavily_tool.py
 
-from crewai import tool
+from crewai.tools import tool
 from tavily import TavilyClient
 import os
 
